@@ -1,0 +1,9 @@
+init creates a new local Git repository in the current folder.
+
+log displays a list of all previous commits in the history.
+
+show shows the exact changes (lines added or removed) in a specific commit.
+
+checkout used to switch between branches or discard changes in the working tree.
+
+reset moves the HEAD or current branch to a previous state, often used to unstage files.
