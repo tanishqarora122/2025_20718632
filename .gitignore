@@ -1,4 +1,9 @@
+# Contents of .gitignore
+*.com
+*.class
 *.exe
 *.dll
+*o
+*so
 build/
-.vs/
+
