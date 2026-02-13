@@ -7,6 +7,8 @@
 *.so
 *.class
 *.com
+# Don't commit zip submissions
+*.zip
 
 # ---------- MSVC / Visual Studio build artifacts ----------
 *.exp
