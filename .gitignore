@@ -9,6 +9,10 @@
 *.com
 # Don't commit zip submissions
 *.zip
+# Doxygen output
+html/
+Worksheet5/html/
+
 
 # ---------- MSVC / Visual Studio build artifacts ----------
 *.exp
